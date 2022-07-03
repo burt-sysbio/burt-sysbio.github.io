@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Transcriptome-level analysis of cell differentiation at kinetic high-resolution"
+excerpt: "keywords: time-series data, linear regression, clustering, dimension reduction<br/><img src='/images/microarray1.png'>"
 collection: portfolio
 ---
 
