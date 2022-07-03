@@ -11,49 +11,34 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Sc. Biophysics, Humboldt University Berlin, 2015
+* M.Sc. Biophyiscs, Humboldt University Berlin, 2018
+* Ph.D in theoretical Biophysics, Humboldt University Berlin, 2022 (thesis submitted)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Research Scientist German Rheumatism Research Center, 2018-present
+  * Analysis of several time-series data sets using statistical data analysis, feature extraction, clustering, regression and dimension reduction techniques in the field of T cell immunology
+  * Build quantitative model for cell survival using parameter estimation, optimization and model selection techniques
+  * Developed stochastic model for cell responses to viruses using markov processes
+  * Developed predictive model for circadian clock interaction with temperature using non-linear dynamics theory
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Visiting Researcher, University of California, San Diego, 2015-2016
+  * Created R shiny dashboard together with data pipeline for analysis of calcium fluxes in plants
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming
+  * Python, R, SQL, git, shell, conda, linux, HPC, hobbyist of JULIA
+* Supervised learning
+  * linear models, parameter optimization, non-linear/logistic regression
+* Unsupervised learning
+  * clustering (hclust, kmeans), dimension reduction (PCA, t-SNE, UMAP)
+* Data cleaning and analysis
+  * numpy, scipy, pandas, statsmodels, sklearn, dplyr, tidyr
+* Reporting and visualization
+  * jupyter, markdown, shiny, ggplot2, matplotlib, plotly, altair, streamlit
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+Burt*, Grabe*, Madeti*,..., Schmal. [Principles underlying the complex dynamics of temperature entrainment by a circadian clock](https://www.cell.com/iscience/fulltext/S2589-0042(21)01341-9). iScience 2021
