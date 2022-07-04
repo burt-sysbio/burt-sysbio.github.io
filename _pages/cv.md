@@ -41,6 +41,6 @@ Skills
 
 Publications
 ======
-Burt*, Grabe*, Madeti*,..., Schmal. [Principles underlying the complex dynamics of temperature entrainment by a circadian clock](https://www.cell.com/iscience/fulltext/S2589-0042(21)01341-9). iScience 2021. *equal contribution. <br>
+Burt<sup>1</sup>, Grabe<sup>1</sup>, Madeti<sup>1</sup>,..., Schmal. [Principles underlying the complex dynamics of temperature entrainment by a circadian clock](https://www.cell.com/iscience/fulltext/S2589-0042(21)01341-9). iScience 2021. <sup>1</sup>equal contribution. <br>
 Burt,..., Thurley. [Data-Driven Mathematical Model of Apoptosis Regulation in Memory Plasma Cells](https://www.mdpi.com/2073-4409/11/9/1547/htm). Cells 2022 <br>
-Burt*, Peine*,..., Loehning, Thurley [High-resolution kinetic gene expression analysis of T helper cell differentiation reveals a STAT-dependent, unique transcriptional program in Th1/2 hybrid cells](https://www.biorxiv.org/content/10.1101/2022.05.13.491791v1). BioRxiv 2022. *equal contribution.
+Burt<sup>2</sup>, Peine<sup>2</sup>,..., Loehning, Thurley [High-resolution kinetic gene expression analysis of T helper cell differentiation reveals a STAT-dependent, unique transcriptional program in Th1/2 hybrid cells](https://www.biorxiv.org/content/10.1101/2022.05.13.491791v1). BioRxiv 2022. <sup>2</sup>equal contribution.
