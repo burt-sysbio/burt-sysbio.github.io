@@ -83,8 +83,8 @@ author:
   name             : "Philipp Burt"
   avatar           : "profile.jpg"
   bio              : "Computational Biologist"
-  location         : "Germany"
-  employer         : "German Rheumatism Research Center"
+  location         : #"Germany"
+  employer         : #"German Rheumatism Research Center"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=mo9nOSIAAAAJ&hl=de"
   email            : 
