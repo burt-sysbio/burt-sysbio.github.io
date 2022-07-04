@@ -11,8 +11,8 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="151.86578mm"
-   height="179.99719mm"
-   viewBox="0 0 151.86578 179.9972"
+   height="185.81804mm"
+   viewBox="0 0 151.86578 185.81805"
    version="1.1"
    id="svg8"
    inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
@@ -994,8 +994,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.979899"
-     inkscape:cx="159.92199"
-     inkscape:cy="584.59503"
+     inkscape:cx="-111.30397"
+     inkscape:cy="584.59502"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -1003,7 +1003,7 @@
      inkscape:guide-bbox="true"
      inkscape:window-width="2560"
      inkscape:window-height="1361"
-     inkscape:window-x="2551"
+     inkscape:window-x="-9"
      inkscape:window-y="-9"
      inkscape:window-maximized="1">
     <sodipodi:guide
@@ -1022,15 +1022,15 @@
        id="guide951"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="151.6353,86.075252"
+       position="151.6353,86.075251"
        orientation="1,0"
        id="guide964"
        inkscape:locked="false" />
     <inkscape:grid
        type="xygrid"
        id="grid3744"
-       originx="8.9492771"
-       originy="-30.530416" />
+       originx="8.9492773"
+       originy="-30.530421" />
   </sodipodi:namedview>
   <metadata
      id="metadata5">
@@ -1048,7 +1048,7 @@
      inkscape:label="Ebene 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(8.9492769,-86.472386)">
+     transform="translate(8.9492769,-80.651548)">
     <image
        y="192.0388"
        x="-7.2432494"
