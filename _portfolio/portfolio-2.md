@@ -1,6 +1,6 @@
 ---
 title: "Modeling survival of long-living plasma cells"
-excerpt: "keywords: parameter estimation, mathematical modeling<br/><img src='/images/plasma_cells1.png'>"
+excerpt: "keywords: parameter estimation, mathematical modeling<br/><a href='https://burt-sysbio.github.io//portfolio/portfolio-2/'><img src='/images/plasma_cells1.png' width='600'>"
 collection: portfolio
 ---
 

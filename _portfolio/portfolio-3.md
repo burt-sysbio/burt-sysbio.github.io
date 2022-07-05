@@ -1,6 +1,6 @@
 ---
 title: "Non-linear dynamics, temperature and our inner clock"
-excerpt: "keywords: non-linear dynamics, mathematical modeling<br/><img src='/images/neurospora1.png'>"
+excerpt: "keywords: non-linear dynamics, mathematical modeling<br/><a href='https://burt-sysbio.github.io//portfolio/portfolio-3/'><img src='/images/neurospora1.png' width='600'>"
 collection: portfolio
 ---
 
